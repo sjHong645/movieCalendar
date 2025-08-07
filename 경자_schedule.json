@@ -1,0 +1,26 @@
+{
+  "movies_to_watch": [
+    "죠스",
+    "발레리나"
+  ],
+  "my_schedule": {
+    "토요일": [
+      {
+        "title": "죠스",
+        "theater": "CGV 용산",
+        "location": "용산",
+        "start_time": "14:30",
+        "runtime": 124
+      }
+    ],
+    "일요일": [
+      {
+        "title": "발레리나",
+        "theater": "롯데시네마 건대입구",
+        "location": "광진구",
+        "start_time": "16:00",
+        "runtime": 145
+      }
+    ]
+  }
+}
